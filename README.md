@@ -1,3 +1,5 @@
 ## Hi, I'm Gergő Miszori 👋
 
-Passionate about **computer science**, **mathematics**, and **finance**. I love tackling complex technical challenges and collaborating within a team.
+I'm a first-year Computer Science student at ETH Zürich. I like building and self-hosting things for fun.
+
+Most of what I build runs live at [miszori.dev](https://miszori.dev).
